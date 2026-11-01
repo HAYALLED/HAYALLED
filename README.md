@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=HAYALLED&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Game%20Developer&descAlignY=60&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=%C4%B0lhan%20Egemen%20Durmu%C5%9F&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Game%20Developer&descAlignY=60&descSize=18" width="100%" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Next.js+%C2%B7+Supabase+%C2%B7+Vercel;Godot+4+%C2%B7+C%23+Game+Dev;Moon+Owl+Games" alt="typing" />
 
