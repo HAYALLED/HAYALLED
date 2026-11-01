@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=%C4%B0lhan%20Egemen%20Durmu%C5%9F&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Game%20Developer&descAlignY=60&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=180&section=header&text=HAYALLED&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Game%20Developer&descAlignY=60&descSize=18" width="100%" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Next.js+%C2%B7+Supabase+%C2%B7+Vercel;Godot+4+%C2%B7+C%23+Game+Dev;Moon+Owl+Games" alt="typing" />
 
@@ -9,6 +9,7 @@
 <a href="mailto:ilhanegemen45@gmail.com"><img src="https://img.shields.io/badge/Gmail-ilhanegemen45%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://moon-owl-games.itch.io"><img src="https://img.shields.io/badge/Moon%20Owl%20Games-itch.io-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Moon Owl Games" /></a>
 <a href="https://www.linkedin.com/in/ilhan-egemen-durmu%C5%9F-459bb2330/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://portfolio-7435zcjfb-ilhan-egemen-durmuss-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
@@ -66,6 +67,12 @@ const hayalled = {
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAYALLED&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
   <br />
   <img src="https://streak-stats.demolab.com?user=HAYALLED&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
+
+<div align="center">
+  <a href="mailto:ilhanegemen45@gmail.com"><img src="https://img.shields.io/badge/Gmail-ilhanegemen45%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/ilhan-egemen-durmu%C5%9F-459bb2330/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://portfolio-7435zcjfb-ilhan-egemen-durmuss-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=100&section=footer" width="100%" alt="footer" />
