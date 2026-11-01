@@ -32,9 +32,9 @@ const hayalled = {
 
 | **[One Drink Please Bartender](https://github.com/HAYALLED/one_drink_please_bartender)** | **[Küçük Kahraman Büyük Dünya](https://github.com/HAYALLED/Kucuk_Kahraman_Buyuk_Dunya)** · [itch.io](https://moon-owl-games.itch.io/kucuk-kahraman-buyuk-dunya) |
 |:--|:--|
-| 2D pixel-art barmen oyunu. Fizik dengeleme, sıvı fiziği, gelişmiş save & auto-backup, yarı-karmaşık rastgele NPC üretici.<br><br><img height="28" src="https://skillicons.dev/icons?i=godot" alt="Godot" /> | Moon Owl Games oyunu. Mevcut sürüm tamamlandı, yeni bölümlerle güncelleme alabilir.<br><br><img height="28" src="https://skillicons.dev/icons?i=godot" alt="Godot" /> |
-| **[Portfolio](https://github.com/HAYALLED/portfolio)** | **[Karakoncolos](https://github.com/HAYALLED/Karakoncolos)** |
-| Kişisel portfolio sayfam. | Koloni + roguelike. Köke hasar verip Yaşam Özü toplama, bebek/tüccar/event sistemleri, Darkest Dungeon tarzı trait'ler, Slay the Spire tarzı 24 relic, kozmetik slotları. Yarım kaldı, devam etmeyecek.<br><br><img height="28" src="https://skillicons.dev/icons?i=godot" alt="Godot" /> |
+| 2D pixel-art barmen oyunu. Fizik dengeleme, sıvı fiziği, gelişmiş save & auto-backup, yarı-karmaşık rastgele NPC üretici.<br><br><img height="28" src="https://skillicons.dev/icons?i=godot" alt="Godot" /> | Moon Owl Games oyunu. Mevcut sürüm tamamlandı, yeni bölümlerle güncelleme alabilir.<br><br><img height="28" src="https://skillicons.dev/icons?i=godot,cs" alt="Godot, C#" /> |
+| **[Portfolio](https://github.com/HAYALLED/portfolio)** · [Canlı site](https://portfolio-7435zcjfb-ilhan-egemen-durmuss-projects.vercel.app/) | **[Karakoncolos](https://github.com/HAYALLED/Karakoncolos)** |
+| Kişisel portfolio sayfam. Şu anda yayında.<br><br><img height="28" src="https://skillicons.dev/icons?i=ts,css,js" alt="TypeScript, CSS, JavaScript" /> | Koloni + roguelike. Köke hasar verip Yaşam Özü toplama, bebek/tüccar/event sistemleri, Darkest Dungeon tarzı trait'ler, Slay the Spire tarzı 24 relic, kozmetik slotları. Yarım kaldı, devam etmeyecek.<br><br><img height="28" src="https://skillicons.dev/icons?i=godot" alt="Godot" /> |
 
 ## 🛠️ Teknolojiler
 
