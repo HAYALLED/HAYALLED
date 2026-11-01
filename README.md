@@ -6,7 +6,7 @@
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/UnifyMatch-Frontend%20%26%20Server-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="UnifyMatch" />
+<a href="mailto:ilhanegemen45@gmail.com"><img src="https://img.shields.io/badge/Gmail-ilhanegemen45%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://moon-owl-games.itch.io"><img src="https://img.shields.io/badge/Moon%20Owl%20Games-itch.io-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Moon Owl Games" /></a>
 <a href="https://www.linkedin.com/in/ilhan-egemen-durmu%C5%9F-459bb2330/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge" alt="LinkedIn" /></a>
 
@@ -14,27 +14,27 @@
 
 ## 👋 Hakkımda
 
-Next.js ile ölçeklenebilir arayüzler geliştiriyor, Vercel deployment ve sunucu yönetimini üstleniyorum. Boş zamanlarımda **Moon Owl Games** altında Godot 4 + C# ile pixel-art oyunlar yapıyorum.
+Next.js ile ölçeklenebilir arayüzler geliştiriyor, Vercel deployment ve sunucu yönetimi tecrübesiyle çalışıyorum. Boş zamanlarımda **Moon Owl Games** altında Godot 4 + C# ile pixel-art oyunlar yapıyorum.
 
 ```js
 const hayalled = {
-  role:     "Frontend Developer & Server Manager",
-  company:  "UnifyMatch",
-  studio:   "Moon Owl Games",
-  web:      ["Next.js", "React", "TypeScript", "Supabase", "Vercel"],
+  role:     "Frontend & Game Developer",
+  studio:   "Moon Owl Games (for now solo developer)",
+  web:      ["HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js", "PHP", "ASPX", "ASP.NET MVC Core"],
+  database: ["Supabase", "Microsoft SQL Server 2025", "SQLite", "MySQL", "MariaDB"],
   game:     ["Godot 4", "C#", "GDScript", "Aseprite"],
-  backend:  ["ASP.NET MVC Core", "SQL Server", "Python"],
+  other:    ["Python", "Vercel"],
   student:  "Bilgisayar Programcılığı · MCBÜ",
 };
 ```
 
-## 🎮 Projeler
+## Projeler
 
 | **[One Drink Please Bartender](https://github.com/HAYALLED/one_drink_please_bartender)** | **[Küçük Kahraman Büyük Dünya](https://github.com/HAYALLED/Kucuk_Kahraman_Buyuk_Dunya)** · [itch.io](https://moon-owl-games.itch.io/kucuk-kahraman-buyuk-dunya) |
 |:--|:--|
-| 2D pixel-art barmen oyunu. Fizik dengeleme, sıvı fiziği, gelişmiş save & auto-backup, yarı-karmaşık rastgele NPC üretici.<br><br>`Godot` `GDScript` | Moon Owl Games oyunu. Mevcut sürüm tamamlandı, yeni bölümlerle güncelleme alabilir.<br><br>✅ Tamamlandı |
+| 2D pixel-art barmen oyunu. Fizik dengeleme, sıvı fiziği, gelişmiş save & auto-backup, yarı-karmaşık rastgele NPC üretici.<br><br><img height="28" src="https://skillicons.dev/icons?i=godot" alt="Godot" /> | Moon Owl Games oyunu. Mevcut sürüm tamamlandı, yeni bölümlerle güncelleme alabilir.<br><br><img height="28" src="https://skillicons.dev/icons?i=godot" alt="Godot" /> |
 | **[Portfolio](https://github.com/HAYALLED/portfolio)** | **[Karakoncolos](https://github.com/HAYALLED/Karakoncolos)** |
-| Kişisel portfolio sayfam. | Koloni + roguelike. Köke hasar verip Yaşam Özü toplama, bebek/tüccar/event sistemleri, Darkest Dungeon tarzı trait'ler, Slay the Spire tarzı 24 relic, kozmetik slotları.<br><br>`Godot` · ⏸️ Yarım kaldı, devam etmeyecek |
+| Kişisel portfolio sayfam. | Koloni + roguelike. Köke hasar verip Yaşam Özü toplama, bebek/tüccar/event sistemleri, Darkest Dungeon tarzı trait'ler, Slay the Spire tarzı 24 relic, kozmetik slotları. Yarım kaldı, devam etmeyecek.<br><br><img height="28" src="https://skillicons.dev/icons?i=godot" alt="Godot" /> |
 
 ## 🛠️ Teknolojiler
 
@@ -43,14 +43,16 @@ const hayalled = {
 <b>Frontend</b><br />
 <img height="44" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" alt="frontend" />
 
-<b>Backend & Veritabanı</b><br />
-<img height="44" src="https://skillicons.dev/icons?i=dotnet,py,mssql,supabase" alt="backend" />
+<b>Backend</b><br />
+<img height="44" src="https://skillicons.dev/icons?i=php,dotnet,cs,py" alt="backend" />
 
-<b>Servers</b><br />
-<img height="44" src="https://skillicons.dev/icons?i=vercel" alt="servers" />
+<b>Veritabanı</b><br />
+<img height="44" src="https://skillicons.dev/icons?i=supabase,mysql,sqlite" alt="database" />
+<img height="44" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" />
+<img height="44" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
 
-<b>DevOps & Araçlar</b><br />
-<img height="44" src="https://skillicons.dev/icons?i=git,github,vscode" alt="devops" />
+<b>Servers & DevOps</b><br />
+<img height="44" src="https://skillicons.dev/icons?i=vercel,git,github,vscode" alt="devops" />
 
 <b>Oyun</b><br />
 <img height="44" src="https://skillicons.dev/icons?i=godot,cs" alt="game" />
