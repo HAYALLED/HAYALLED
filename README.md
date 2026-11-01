@@ -7,8 +7,8 @@
 <br /><br />
 
 <img src="https://img.shields.io/badge/UnifyMatch-Frontend%20%26%20Server-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="UnifyMatch" />
-<img src="https://img.shields.io/badge/Moon%20Owl%20Games-itch.io-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Moon Owl Games" />
-<img src="https://img.shields.io/badge/Godot-4%20%C2%B7%20C%23-478cbf?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
+<a href="https://moon-owl-games.itch.io"><img src="https://img.shields.io/badge/Moon%20Owl%20Games-itch.io-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Moon Owl Games" /></a>
+<a href="https://www.linkedin.com/in/ilhan-egemen-durmu%C5%9F-459bb2330/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge" alt="LinkedIn" /></a>
 
 </div>
 
@@ -28,16 +28,33 @@ const hayalled = {
 };
 ```
 
-## 🎮 Oyunlar
+## 🎮 Projeler
 
-| **Via Mutata** | **One Drink Please Bartender** |
+| **[One Drink Please Bartender](https://github.com/HAYALLED/one_drink_please_bartender)** | **[Küçük Kahraman Büyük Dünya](https://github.com/HAYALLED/Kucuk_Kahraman_Buyuk_Dunya)** · [itch.io](https://moon-owl-games.itch.io/kucuk-kahraman-buyuk-dunya) |
 |:--|:--|
-| Sıra tabanlı RPG. Çevre kirliliği teması, savaş ve kayıt sistemi.<br><br>`Godot 4` `C#` | 2D pixel-art barmen oyunu. Tepsi dengesi, sıvı fiziği, haftalık borç tahsildarı döngüsü.<br><br>`Godot` `GDScript` · Planlama aşamasında |
+| 2D pixel-art barmen oyunu. Fizik dengeleme, sıvı fiziği, gelişmiş save & auto-backup, yarı-karmaşık rastgele NPC üretici.<br><br>`Godot` `GDScript` | Moon Owl Games oyunu. Mevcut sürüm tamamlandı, yeni bölümlerle güncelleme alabilir.<br><br>✅ Tamamlandı |
+| **[Portfolio](https://github.com/HAYALLED/portfolio)** | **[Karakoncolos](https://github.com/HAYALLED/Karakoncolos)** |
+| Kişisel portfolio sayfam. | Koloni + roguelike. Köke hasar verip Yaşam Özü toplama, bebek/tüccar/event sistemleri, Darkest Dungeon tarzı trait'ler, Slay the Spire tarzı 24 relic, kozmetik slotları.<br><br>`Godot` · ⏸️ Yarım kaldı, devam etmeyecek |
 
 ## 🛠️ Teknolojiler
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,godot,cs,dotnet,supabase,vercel,mssql,py,git,github,vscode" alt="tech" />
+
+<b>Frontend</b><br />
+<img height="44" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" alt="frontend" />
+
+<b>Backend & Veritabanı</b><br />
+<img height="44" src="https://skillicons.dev/icons?i=dotnet,py,mssql,supabase" alt="backend" />
+
+<b>Servers</b><br />
+<img height="44" src="https://skillicons.dev/icons?i=vercel" alt="servers" />
+
+<b>DevOps & Araçlar</b><br />
+<img height="44" src="https://skillicons.dev/icons?i=git,github,vscode" alt="devops" />
+
+<b>Oyun</b><br />
+<img height="44" src="https://skillicons.dev/icons?i=godot,cs" alt="game" />
+
 </div>
 
 ## 📊 İstatistikler
